@@ -77,6 +77,8 @@ npm run dev
 ```
 
 ## Project structure
+
+```bash
 weather-dashboard/
 ├── src/
 │   ├── components/
@@ -109,6 +111,7 @@ weather-dashboard/
 ├── vite.config.js
 ├── tailwind.config.js
 └── README.md
+```
 
 ## Key features
 
